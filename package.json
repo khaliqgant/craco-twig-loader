@@ -1,0 +1,26 @@
+{
+  "name": "craco-twig-loader",
+  "version": "1.0.0",
+  "description": "A twig loader plugin for craco / react-scripts / create-react-app ",
+  "main": "lib/craco-twig-loader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khaliqgant/craco-twig-loader.git"
+  },
+  "keywords": [
+    "craco",
+    "create-react-app"
+  ],
+  "author": "Khaliq Gant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaliqgant/craco-twig-loader/issues"
+  },
+  "homepage": "https://github.com/khaliqgant/craco-twig-loader#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "@craco/craco": "^5.6.2",
+    "twig-loader": "^0.5.5"
+  }
+}
